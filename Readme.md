@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=hackion&fontSize=80&fontColor=00ff9d&animation=twinkling&fontAlignY=35&desc=Breaking%20things%20to%20understand%20how%20they%20work&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=hackion&fontSize=80&fontColor=00ff9d&animation=twinkling&fontAlignY=35&desc=Hacking%20%E2%80%A2%20Breaking%20things%20to%20understand%20how%20they%20work&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/matrix.gif" width="100%" height="120"/>
 
-<a href="https://tryhackme.com/p/deepanshu22">
-  <img src="https://img.shields.io/badge/TryHackMe-deepanshu22-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Location-Rohtak%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<h3>⚡ Attacks are evolving using AI ⚡</h3>
+
 <img src="https://img.shields.io/badge/VAPT-Certified%20Mindset-black?style=for-the-badge&logo=hackthebox&logoColor=00ff9d&labelColor=000000" />
 <img src="https://komarev.com/ghpvc/?username=deepansh39&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS" />
 
@@ -173,7 +171,6 @@ Dockerized OWASP ZAP platform with a Flask dashboard for scan management & persi
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/deepanshu22"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 <a href="https://github.com/deepansh39"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
