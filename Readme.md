@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=hackion&fontSize=80&fontColor=00ff9d&animation=twinkling&fontAlignY=35&desc=Hacking%20%E2%80%A2%20Breaking%20things%20to%20understand%20how%20they%20work&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=250&section=header&text=hackion&fontSize=80&fontColor=ff1a1a&animation=twinkling&fontAlignY=32&desc=Hacking%20%E2%80%A2%20Breaking%20things%20to%20understand%20how%20they%20work&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/matrix.gif" width="100%" height="120"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker.gif" width="100%" height="320"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Creepster&size=45&duration=3000&pause=800&color=FF1A1A&background=00000000&center=true&vCenter=true&width=800&height=80&lines=SYSTEM+BREACHED;ACCESS+GRANTED;WELCOME+HACKER" />
 
 <h3>⚡ Attacks are evolving using AI ⚡</h3>
 
@@ -19,8 +21,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=whoami+%3E+deepansh39;Building+offensive+%26+defensive+security+tools;Python+%7C+Networking+%7C+SOC+%7C+VAPT;Scanning+ports...+exploiting+curiosity;Watching+attacks+evolve+as+AI+gets+smarter;Claude+%2B+ChatGPT+%3D+recon+on+steroids;sudo+access+granted...;Welcome+to+my+terminal.&font=Fira%20Code&center=true&width=750&height=50&color=00ff9d&vCenter=true&size=22&pause=1500" />
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
-
 </div>
 
 <br>
@@ -31,7 +31,7 @@
 name:        Deepanshu
 handle:      hackion
 role:        Cybersecurity Enthusiast / Python Developer
-focus:       Network Security · SOC Analysis · Pentesting Tools · VAPT
+focus:       Pentesting Tools · VAPT
 currently:   busy with my laptop 💻
 fun_fact:    I write tools instead of using them sometimes
 ```
